@@ -16,4 +16,10 @@ step5: Add your instance to the AutoScaling <br>
 step6: Monitor it by cloudwatch <br>
 </p>
 </div>
+<div>
+<h3>
 
+</h3>
+
+
+</div>
