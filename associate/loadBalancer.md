@@ -20,3 +20,9 @@ step 2: create a target group and add the ec2 instances <br>
 step 3: create a load Balancer and add the target group <br>
 step 4: After that to to the DNS address of the ELB and check it is balancing or not 
 </div>
+<div>
+<h3>Note</h3>
+When you create the ELB and when you use it's DNS to connect it you will get a timeout error, you will not connect the ELB. <br>
+For this you have to go the security group of ELB and add http port in the security group
+</div>
+
