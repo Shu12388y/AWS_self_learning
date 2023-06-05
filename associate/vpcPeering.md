@@ -4,4 +4,5 @@ Vpc Peering
 <div>
 How to peer two vpc's
 </div>
-
+<div>
+step 1:
